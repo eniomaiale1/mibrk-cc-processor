@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AuthorizeTransactions.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="emailList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">heda@mibrk.com, aotatti@mibrk.com, yurinia@mibrk.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
